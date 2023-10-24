@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Franco Araya Leiva 👋
+![Rojo Oscuro Blanco Negro Nómada Digital Banner de YouTube](https://github.com/OneCalledFrank/OneCalledFrank/assets/114616610/a049b566-45b8-4a5d-a1c6-ae1b375a4076)
+
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🌱 Currently working from Santiago, Chile!
+- 💬 I work with JavaScript, Java
+- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- ⚡ Fun fact: Data Analysis📊
+
 
 <!--
 **OneCalledFrank/OneCalledFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
