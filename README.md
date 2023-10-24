@@ -3,11 +3,11 @@
 
 ![Rojo Oscuro Blanco Negro Nómada Digital Banner de YouTube](https://github.com/OneCalledFrank/OneCalledFrank/assets/114616610/a049b566-45b8-4a5d-a1c6-ae1b375a4076)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 📝 You can search my experience on LinkedIn [https://www.linkedin.com/in/francoarayaleiva/](https://www.linkedin.com/in/francoarayaleiva/)
+- 📝 You can search my education on: [LinkedIn](https://www.linkedin.com/in/francoarayaleiva/)
 
-- 📫 How to reach me **franco.arayaleiva@gmail.com**
+- 📫 How to reach me: **franco.arayaleiva@gmail.com**
 
 - ⚡ Fun fact: **I love DOOM and it got me into coding**
 
