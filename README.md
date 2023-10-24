@@ -3,8 +3,19 @@
 
 ![Rojo Oscuro Blanco Negro Nómada Digital Banner de YouTube](https://github.com/OneCalledFrank/OneCalledFrank/assets/114616610/a049b566-45b8-4a5d-a1c6-ae1b375a4076)
 
+- 🌱 I’m currently learning **Python**
+
+- 📝 You can search my experience on LinkedIn [https://www.linkedin.com/in/francoarayaleiva/](https://www.linkedin.com/in/francoarayaleiva/)
+
+- 📫 How to reach me **franco.arayaleiva@gmail.com**
+
+- ⚡ Fun fact: **I love DOOM and it got me into coding**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/onecalledfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onecalledfrank" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francoarayaleiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francoarayaleiva" height="30" width="40" /></a>
+<a href="https://instagram.com/onecalledfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onecalledfrank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
