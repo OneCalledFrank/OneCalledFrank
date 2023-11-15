@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Araya Leiva</h1>
 <h3 align="center">A passionate developer from Chile!</h3>
 
-![Rojo Oscuro Blanco Negro Nómada Digital Banner de YouTube](https://github.com/OneCalledFrank/OneCalledFrank/assets/114616610/a049b566-45b8-4a5d-a1c6-ae1b375a4076)
+1![Franco Araya leiva](https://github.com/OneCalledFrank/OneCalledFrank/assets/114616610/d59ff6fc-19e9-4311-a065-8fd825dd2381)
 
 - 🌱 I’m currently learning: **Python**
 
